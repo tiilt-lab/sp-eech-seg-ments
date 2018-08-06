@@ -1,0 +1,5 @@
+bugs
+.bugs.done
+
+audio_files/*
+*.pyc
